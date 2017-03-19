@@ -27,7 +27,7 @@ percyjackson:
       speedmodifier: 1.0
       avoidwater: false
       usedefaultstuckaction: true
-    uuid: b5bdd352-50e9-4ad6-b7ff-8332b21a7e7a
+    uuid: 0130299a-4489-429d-b4eb-68643a4c6ac8
     traitnames: spawned,type,inventory,owner,gravity,location
     name: percyjackson
 lucy:
